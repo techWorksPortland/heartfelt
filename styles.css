@@ -1,0 +1,31 @@
+.cormorant {
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+.main-text {
+    color: darkgray;
+}
+
+.cormorant a {
+    color: darkgray;
+    text-decoration: none;
+}
+img {
+    box-shadow: 0 0 8px #ccc;
+}
+a:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:active {
+    color: inherit;
+}
+
+a:hover {
+    color: black;
+}
+
